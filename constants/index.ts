@@ -84,4 +84,4 @@ export const sortTypes = [
 export const avatarPlaceholderUrl =
   "https://img.freepik.com/premium-vector/social-media-logo_1305298-29989.jpg?semt=ais_hybrid&w=740";
 
-export const MAX_FILE_SIZE = 50 * 1024 * 1024; // 50MB
+export const MAX_FILE_SIZE = 2000 * 1024 * 1024; // 2000MB 
